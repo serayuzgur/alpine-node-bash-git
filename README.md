@@ -1,3 +1,3 @@
 # alpine-node-bash-git
 
-cd  
+Minimal Node.js built on Alpine Linux (Docker) + bash + git.
